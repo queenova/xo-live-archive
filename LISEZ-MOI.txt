@@ -1,0 +1,26 @@
+XO LIVE ARCHIVE — HOUSE OF XO
+
+FICHIERS
+- index.html : structure du site
+- style.css : design, responsive et animations
+- script.js : interactions, filtres, langue et fenêtres concert
+- concerts.js : liste des concerts, liens vidéo et images personnalisées
+- logo.png : logo House of XO
+- images/ : ajoute ici tes images de couverture
+
+PERSONNALISER L’IMAGE D’UN CONCERT
+Dans concerts.js, ajoute ou modifie le champ image de la date concernée :
+image: "images/seoul-night-1.jpg"
+Utilise un chemin relatif, respecte les majuscules et envoie le dossier images sur GitHub.
+
+DESIGN
+Thème noir et vert XO, animations douces, cartes animées, boutons d’action plus visibles, panneau final rééquilibré et pied de page simplifié. Les animations sont réduites si le visiteur a activé la préférence système de réduction des mouvements.
+
+PUBLICATION
+Envoie tous les fichiers et le dossier images dans le dépôt GitHub Pages. N’envoie pas uniquement index.html ou style.css.
+
+Projet fan-made non affilié officiellement à The Weeknd, XO Records ou Live Nation.
+
+
+INDICATION DE LANGUE
+Une petite aide sous le bouton FR / EN explique aux visiteurs comment changer la langue. Le texte s'affiche en français ou en anglais selon la langue choisie.

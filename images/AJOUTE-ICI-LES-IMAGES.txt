@@ -1,0 +1,3 @@
+Place tes images de couverture de concert dans ce dossier.
+Puis renseigne leur chemin dans concerts.js, par exemple : image: "images/seoul-night-1.jpg".
+Les noms de fichiers et les majuscules doivent correspondre exactement.
