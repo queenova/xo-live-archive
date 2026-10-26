@@ -19,7 +19,7 @@ window.XO_CONCERTS = [
   },
   {
     "date": "2026-04-22",
-    "city": "Mexico",
+    "city": "Mexico City",
     "country": "Mexico",
     "flag": "🇲🇽",
     "venue": "Mexico City",
@@ -527,7 +527,7 @@ window.XO_CONCERTS = [
     "country": "Thailand",
     "flag": "🇹🇭",
     "venue": "Rajamangala National Stadium",
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=MRLpINhVDYY",
     "image": ""
   },
   {
@@ -536,7 +536,7 @@ window.XO_CONCERTS = [
     "country": "Hong Kong",
     "flag": "🇭🇰",
     "venue": "Kai Tak Stadium",
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=FXqcUbB8tOQ&list=RDFXqcUbB8tOQ&start_radio=1",
     "image": ""
   },
   {
@@ -545,7 +545,7 @@ window.XO_CONCERTS = [
     "country": "Hong Kong",
     "flag": "🇭🇰",
     "venue": "Kai Tak Stadium",
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=X5CdEfkTOFE&list=RDX5CdEfkTOFE&start_radio=1",
     "image": ""
   },
   {
